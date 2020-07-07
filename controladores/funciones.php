@@ -2,7 +2,7 @@
 class  CrudDB{    
   private $host   ="localhost";
   private $usuario="root";
-  private $clave  ="39336728";
+  private $clave  ="rootaws";
   private $db     ="comidaya";
   public $conexion;
   public function __construct(){
@@ -89,7 +89,7 @@ $text_message    = "Gracias Por confiar en nosotros!<br />Saludos Equipo de Comi
         <hr />
         <p style='font-size:25px;'>Para activar tu cuenta, por favor hacé click en Activar Cuenta</p>
         <tr align='center' height='50' style='font-family:Verdana, Geneva, sans-serif;'>
-       <td style='background-color:#e84118; text-align:center;'><a href='http://localhost/comidayadev/verify.php?activate=$cod_act&type=$tipo' style='color:#f5f6fa; text-decoration:none; font-family:Verdana, Geneva, sans-serif; font-size:25px;'>ACTIVAR CUENTA</a></td>
+       <td style='background-color:#e84118; text-align:center;'><a href='http://www.comidaya.vamdev.com.ar/verify.php?activate=$cod_act&type=$tipo' style='color:#f5f6fa; text-decoration:none; font-family:Verdana, Geneva, sans-serif; font-size:25px;'>ACTIVAR CUENTA</a></td>
        
       </tr>
         <img src='https://i.ibb.co/hLtbGxn/comidaya.jpg' alt='COMIDAYA' title='COMIDAYA' style='height:auto; width:100%; max-width:100%;' />
