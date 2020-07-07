@@ -10,7 +10,7 @@ Este proyecto se trata de un **ecommerce** orientado a la venta de bebidas y ali
 
 Me considero un Web Developer Jr Me encanta estar siempre aprendiendo cosas nuevas. Tengo insomnio nivel emprendedor desde tiempos inmemorables. Me gusta involucrarme en nuevos proyectos. 
 
-***- Mi lema: solo esta derrotado aquel que deja de soñar.***
+***La creatividad se trata de conectar cosas.***
 
 
 ## Instalacion
