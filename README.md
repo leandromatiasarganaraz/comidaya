@@ -37,6 +37,7 @@ www.comidaya.vamdev.com.ar
 - [Icomoon](https://icomoon.io) (para crear íconos personalizados)
 - [AWS amazon web services ]() (para crear una vps)
 
+### conexion SSH ssh -i "logger2ubuntu.pem" ubuntu@ec2-3-232-197-19.compute-1.amazonaws.com
 
 #### Guias
 
