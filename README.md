@@ -52,6 +52,5 @@ El quinto número, será el día de la semana.
 
 - [Sidebar con bootstrap](https://bootstrapious.com/p/bootstrap-sidebar)
 - [Bootstrap](https://getbootstrap.com/)
-- [Como escribir Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
 
